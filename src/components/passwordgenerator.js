@@ -1,5 +1,5 @@
 
-// IDEAL IS default value 
+// IDEAL IS default value OR at least two different elements !
 // you can send choices = [`number`,`specialChar`]
 // you can send choices = [`number`,`letter`]
 // you can send choices = [`specialChar`,`letter`]
